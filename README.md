@@ -99,15 +99,15 @@ python test_encryption.py -c XTEA -b CBC -m "This is a custom message"
 
 
 Ruby Implementation
-—————————
+-----
 
 Usage
-——
+-----
 
 Run ruby test_encryption.rb [args] from the /src/rb/ folder as specified below.
 
 Command line arguments
-——————————————
+-----
 
 IMPORTANT: The Ruby implementation does not yet have the relatively failsafe command-line interface that the Python implementation does. It is imperative that you follow these exact specifications when running queries, or else your queries won’t work.
 
