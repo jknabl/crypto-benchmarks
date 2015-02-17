@@ -1,8 +1,7 @@
 README
-———
-
+---------
 Structure of the Project
-————————————
+-----
 
 /src 
   /python
@@ -23,7 +22,7 @@ Structure of the Project
 
 
 Development Environment
-———————————
+-----
 
 All code in this suite was developed and tested in a MacOSX 10.9.5 environment.
 
@@ -35,7 +34,7 @@ I cannot guarantee that things will work in other environments, however I’d im
 
 
 Test Suite Shell Script
-———————————
+-------
 
 You may need to change the permissions of benchmarks.sh before you run:
 
